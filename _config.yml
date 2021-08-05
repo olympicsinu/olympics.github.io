@@ -1,12 +1,4 @@
-lsi: false
-safe: true
-source: /
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-tactile
+title: Olympics Inu
+description: A Decentralized Digital Currency for Olympics by Fans.
