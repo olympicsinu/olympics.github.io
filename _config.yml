@@ -1,3 +1,5 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/architect@v0.2.0
 title: Olympics Inu
 description: A Decentralized Digital Currency for Olympics by Fans.
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
